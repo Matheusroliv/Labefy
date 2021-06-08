@@ -6,10 +6,10 @@ O Labefy é um projeto que faz requisição de uma API simples, onde tenta simul
 Bibliotecas utilizadas:
 
 <p>• Axios (Para fazer requisição da API)</p>
-• Styled Components (Estilização)
-• React Player (Reprodução de áudio e video - Youtube / Facebook / Soundcloud / Vimeo / Wistia / MixCloud / Dailymotion /
-Twitch
-• Surge
+<p>• Styled Components (Estilização)</p>
+<p>• React Player (Reprodução de áudio e video - Youtube / Facebook / Soundcloud / Vimeo / Wistia / MixCloud / Dailymotion /
+Twitch</p>
+<p>• Surge</p>
 
 O que funciona
 
