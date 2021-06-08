@@ -25,5 +25,4 @@ Twitch</p>
 <h1>O que não funciona</h1>
 
 <p>• Responsividade Mobile em desenvolvimento.</p>
-<p>• O projeto possuia uma autenticação Google, onde puxava o nome e a foto do login por meio de uma requisição da API do google e dava Boas vindas, porém, ao fazer o build o projeto bugava completamente.</p>
 
