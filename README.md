@@ -1,6 +1,6 @@
 <h1>Labefy<h2>
 
-Sobre o projeto
+<p>Sobre o projeto</p>
 O Labefy é um projeto que faz requisição de uma API simples, onde tenta simular mais ou menos um sistema de playlist do Spotify ou Youtube.
 
 <h1>Bibliotecas utilizadas:</h1>
